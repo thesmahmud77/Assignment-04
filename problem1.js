@@ -14,5 +14,5 @@ function totalFine(fare) {
   return fines;
 }
 
-const mtdFine = totalFine("Gorib tai ticket katinai");
+const mtdFine = totalFine(10);
 console.log(mtdFine);
